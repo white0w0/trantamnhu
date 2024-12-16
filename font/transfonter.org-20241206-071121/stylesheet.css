@@ -1,0 +1,228 @@
+@font-face {
+    font-family: 'SVN-Aaron Script';
+    src: url('SVN-AaronScript.eot');
+    src: url('SVN-AaronScript.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AaronScript.woff2') format('woff2'),
+        url('SVN-AaronScript.woff') format('woff'),
+        url('SVN-AaronScript.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aaron Script';
+    src: url('SVN-AaronScript_1.eot');
+    src: url('SVN-AaronScript_1.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AaronScript_1.woff2') format('woff2'),
+        url('SVN-AaronScript_1.woff') format('woff'),
+        url('SVN-AaronScript_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Abril Fatface';
+    src: url('SVN-AbrilFatface.eot');
+    src: url('SVN-AbrilFatface.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AbrilFatface.woff2') format('woff2'),
+        url('SVN-AbrilFatface.woff') format('woff'),
+        url('SVN-AbrilFatface.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Agency FB';
+    src: url('SVN-AgencyFBbold.eot');
+    src: url('SVN-AgencyFBbold.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AgencyFBbold.woff2') format('woff2'),
+        url('SVN-AgencyFBbold.woff') format('woff'),
+        url('SVN-AgencyFBbold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Agency FB';
+    src: url('SVN-AgencyFB.eot');
+    src: url('SVN-AgencyFB.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AgencyFB.woff2') format('woff2'),
+        url('SVN-AgencyFB.woff') format('woff'),
+        url('SVN-AgencyFB.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aguda';
+    src: url('SVN-Aguda.eot');
+    src: url('SVN-Aguda.eot?#iefix') format('embedded-opentype'),
+        url('SVN-Aguda.woff2') format('woff2'),
+        url('SVN-Aguda.woff') format('woff'),
+        url('SVN-Aguda.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aguda';
+    src: url('SVN-AgudaBlack.eot');
+    src: url('SVN-AgudaBlack.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AgudaBlack.woff2') format('woff2'),
+        url('SVN-AgudaBlack.woff') format('woff'),
+        url('SVN-AgudaBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Adam Gorry';
+    src: url('SVN-AdamGorry.eot');
+    src: url('SVN-AdamGorry.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AdamGorry.woff2') format('woff2'),
+        url('SVN-AdamGorry.woff') format('woff'),
+        url('SVN-AdamGorry.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Alek Ornaments';
+    src: url('SVN-AlekOrnaments.eot');
+    src: url('SVN-AlekOrnaments.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AlekOrnaments.woff2') format('woff2'),
+        url('SVN-AlekOrnaments.woff') format('woff'),
+        url('SVN-AlekOrnaments.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aguda';
+    src: url('SVN-AgudaLight.eot');
+    src: url('SVN-AgudaLight.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AgudaLight.woff2') format('woff2'),
+        url('SVN-AgudaLight.woff') format('woff'),
+        url('SVN-AgudaLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aguda';
+    src: url('SVN-AgudaBold.eot');
+    src: url('SVN-AgudaBold.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AgudaBold.woff2') format('woff2'),
+        url('SVN-AgudaBold.woff') format('woff'),
+        url('SVN-AgudaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Alek';
+    src: url('SVN-AlekBold.eot');
+    src: url('SVN-AlekBold.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AlekBold.woff2') format('woff2'),
+        url('SVN-AlekBold.woff') format('woff'),
+        url('SVN-AlekBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Alek';
+    src: url('SVN-Alek.eot');
+    src: url('SVN-Alek.eot?#iefix') format('embedded-opentype'),
+        url('SVN-Alek.woff2') format('woff2'),
+        url('SVN-Alek.woff') format('woff'),
+        url('SVN-Alek.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('SVN-AleoRegular.eot');
+    src: url('SVN-AleoRegular.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AleoRegular.woff2') format('woff2'),
+        url('SVN-AleoRegular.woff') format('woff'),
+        url('SVN-AleoRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('SVN-AleoBold.eot');
+    src: url('SVN-AleoBold.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AleoBold.woff2') format('woff2'),
+        url('SVN-AleoBold.woff') format('woff'),
+        url('SVN-AleoBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('SVN-AleoItalic.eot');
+    src: url('SVN-AleoItalic.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AleoItalic.woff2') format('woff2'),
+        url('SVN-AleoItalic.woff') format('woff'),
+        url('SVN-AleoItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('SVN-AleoLightItalic.eot');
+    src: url('SVN-AleoLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AleoLightItalic.woff2') format('woff2'),
+        url('SVN-AleoLightItalic.woff') format('woff'),
+        url('SVN-AleoLightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('SVN-AleoBoldItalic.eot');
+    src: url('SVN-AleoBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AleoBoldItalic.woff2') format('woff2'),
+        url('SVN-AleoBoldItalic.woff') format('woff'),
+        url('SVN-AleoBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('SVN-AleoLight.eot');
+    src: url('SVN-AleoLight.eot?#iefix') format('embedded-opentype'),
+        url('SVN-AleoLight.woff2') format('woff2'),
+        url('SVN-AleoLight.woff') format('woff'),
+        url('SVN-AleoLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

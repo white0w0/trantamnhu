@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Manrope:wght@200..800&family=MonteCarlo&display=swap');
+@import url("../font/transfonter.org-20241206-071121/stylesheet.css");
+
+body
+
+
+
+
+{
+	background-color: #FFFFFF;
+	color: rgba(0,0,0,0.8);
+	font-family: "Manrope", Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px	;
+
+}
+h1{	font-size: 3.0rem; 	}
+h2{ font-size: 2.5rem}
+h3{ font-size: 2.5rem}
+h4{font-size: 1.5rem}
+p{ line-height: 1rem}
+h1,h2,h3 ,h4
+{
+	font-family: "Literata",Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-weight: 600
+}
+.font-dacbiet
+{
+	font-family: "MonteCarlo", cursive;
+  	font-weight: 800;
+	font-size: 2rem;
+	
+}
+.font-trong-hay
+{
+	font-family: "Manrope", cursive;
+  	font-weight: 800;
+	font-size: 2rem;
+	
+}
+/*---- color style----------*/
+.bg-primary { background-color: rgba(191,7,156,1.00)}
+
+.text-primary{ color: #000000}
+.text-light{ color: #eeeeee }
+.text-dark {color: rgba(49,7,37,1.00)}
+/*--- style cho button - nut mau chinh----*/
+.btn-primary
+{
+	background-color: #000000;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding:10px 40px ;
+	border-radius: 30px  30px 30px 30px
+}
+.btn:hover { background-color: rgba(6,183,147,1.00)}
+/*--- ----he thong luoi phone - mobile first phone truoc--------------*/
+*{ box-sizing: border-box}
+.col-1 { width: 8.33333%}
+.col-2 { width: 16.66667%}
+.col-3 { width: 25%}
+.col-4 { width: 33.33333%}
+.col-5 { width:  41.66667%}
+.col-6 { width:  50%}
+.col-7 { width:  58.33333%}
+.col-8 { width:  66.66667%}
+.col-9 { width: 75%}
+.col-10 { width:  83.33333%}
+.col-11 { width:  91.66667%}
+.col-12 { width: 100%}
+/*-- he thong 12 cột medium cho thiết bị loại trung (tablet) ipad*/
+@media (min-width:600px)
+{
+	.col-md-1 { width: 8.33333%}
+.col-md-2 { width: 16.66667%}
+.col-md-3 { width: 25%}
+.col-md-4 { width: 33.33333%}
+.col-md-5 { width:  41.66667%}
+.col-md-6 { width:  50%}
+.col-md-7 { width:  58.33333%}
+.col-md-8 { width:  66.66667%}
+.col-md-9 { width: 75%}
+.col-md-10 { width:  83.33333%}
+.col-md-11 { width:  91.66667%}
+.col-md-12 { width: 100%}
+}
+/*-- hệ thống cột lớn large cho thiết bị từ 1000px trở lên ( pc)*/
+@media (min-width:1000px)
+{
+	.col-lg-1 { width: 8.33333%}
+.col-lg-2 { width: 16.66667%}
+.col-lg-3 { width: 25%}
+.col-lg-4 { width: 33.33333%}
+.col-lg-5 { width:  41.66667%}
+.col-lg-6 { width:  50%}
+.col-lg-7 { width:  58.33333%}
+.col-lg-8 { width:  66.66667%}
+.col-lg-9 { width: 75%}
+.col-lg-10 { width:  83.33333%}
+.col-lg-11 { width:  91.66667%}
+.col-lg-12 { width: 100%}
+	
+}
+[class*="col-"]
+{
+	border: none;
+	padding: 15px
+}
+
+.row
+{
+	display: flex;
+	flex-wrap: wrap
+}
+.container{	width: 100%;  }
+@media (min-width:600px)
+{
+	.container
+	{	
+		width: 80%;
+		margin: auto/* lệnh này đẩy box 80% này vào giữa*/
+	}
+}
+.img-100{max-width: 100%; height: auto}
+/*------------ spacing style------*/
+.mx-auto{ margin-left: auto; margin-right: auto}
+.mt-1{ margin-top: 4px}
+    .mt-2{ margin-top: 8px}
+    .mt-3{margin-top: 12px}
+    .mt-4{margin-top: 16px}
+    .mt-5{ margin-top: 24px}
+    .mt-6{ margin-top: 72px}
+/*------------ ------*/
+
+.mt-1{ margin-bottom: 4px}
+    .mt-2{ margin-bottom: 8px}
+    .mt-3{margin-bottom: 12px}
+    .mt-4{margin-bottom: 16px}
+    .mt-5{ margin-bottom: 24px}
+    .mt-6{ margin-bottom: 72px}
+
+.tex-center{margin-left: auto ; margin-right: auto}
+
+.progress-bar
+{
+
+width: 100%; height: 10px;
+background: #ddd;
+border-radius: 10px
+}
+
+.progress
+{
+height: 100%;
+border-radius: 10px 0 0 10px;
+position: relative
+}
+
+.progress span
+{ 
+ font-size: 0.8 rem;
+ position: absolute; right: 0 ;
+ top: -19px ;
+font-weight: 800
+}
+#project img
+{
+	height: 250px;
+	transform: all 0.5s
+}
+#project img:hover
+{
+	transform: scale(1.0) rotate(5deg)
+}
+.navbar {
+    background-color: #9A0C0E;
+    color: white;}
+.custom-section {
+    background-color: #070707 ; 
+    padding: 20px; /* Thêm khoảng cách nếu cần */
+    border-radius: 8px;
+	 {
+  border: none !important;
+}
+	
+	
+
